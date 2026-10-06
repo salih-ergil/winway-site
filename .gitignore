@@ -1,0 +1,9 @@
+# Gizli şirket belgeleri — depoya asla girmesin
+*.pdf
+Şirket Bilgileri.pdf
+
+# macOS sistem dosyaları
+.DS_Store
+
+# Logonun orijinal fotoğrafı (sitede kullanılmıyor)
+IMG_3639.JPG
